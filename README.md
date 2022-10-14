@@ -9,9 +9,9 @@ Compilation
 	catkin_make
 3. Clone project:
 	cd ~
-	git clone https://github.com/joffman/ros_object_recognition.git
+	git clone https://github.com/syahmisanab/blob-chase-bveeta-mini
 4. Copy/Move src folder into your workspace.
-	cp -r ~/ros_object_recognition/src/* ~/catkin_ws/src/
+	cp -r ~/blob-chase-bveeta-mini/src/* ~/catkin_ws/src/
 5. Compile:
 	cd ~/catkin_ws
 	catkin_make
